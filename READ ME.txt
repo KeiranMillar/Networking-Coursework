@@ -1,0 +1,8 @@
+To run my program, first of all you run the server exe and then you run two intances of the client exe
+The clients will be asked for their name and this will then be displayed at the top of their window.
+
+To control the clients within the application simply use the arrows keys on your selected window.
+When you are finished simply close the windows of the application.
+When starting again make sure that the server is restarted as without a restart it will cause the users to crash.
+
+Using https://www.sfml-dev.org/download.php you can download SFML which is needed for my program to run
